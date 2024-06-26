@@ -9,6 +9,7 @@ header {
 }
 header a {
     color: #FFFACD;
+    text-decoration: none;
 }
 body {
     background-color: #FFFACD;
